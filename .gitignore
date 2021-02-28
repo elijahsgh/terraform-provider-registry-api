@@ -1,0 +1,7 @@
+.terraform.lock.hcl
+.terraform
+__pycache__
+cert.pem
+key.pem
+providers
+env
